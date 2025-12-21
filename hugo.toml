@@ -861,6 +861,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 6
+        identifier = "contribution"
+        pre = ""
+        post = ""
+        name = "贡献指南"
+        url = "/contribution/"
+        title = ""
+      [[languages.zh-cn.menu.main]]
+        weight = 7
         identifier = "about"
         pre = ""
         post = ""
@@ -868,7 +876,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/about/"
         title = ""
       [[languages.zh-cn.menu.main]]
-        weight = 7
+        weight = 8
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
@@ -901,7 +909,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           social = true
           disclaimer = ""
       [languages.zh-cn.params.social]
-        GitHub = "https://github.com/kleinblue4/JNU-CS-BAOYAN"
+        GitHub = "kleinblue4/JNU-CS-BAOYAN"
         Weibo = ""
         Steam = ""
         Zhihu = ""
