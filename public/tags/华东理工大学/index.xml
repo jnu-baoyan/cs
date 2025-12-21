@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>华东理工大学 - 标签 - 江南大学 CS 保研仓库</title>
+        <link>http://localhost:1313/cs/tags/%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6/</link>
+        <description>华东理工大学 - 标签 - 江南大学 CS 保研仓库</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/cs/tags/%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>2025年 Lomig 的夏令营经验帖</title>
+    <link>http://localhost:1313/cs/lomig_sc/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/lomig_sc/</guid>
+    <description><![CDATA[<h1 id="lomigs-summercamp-experiences">Lomig&rsquo;s SummerCamp Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Kikinvb 的预推免经验帖</title>
+    <link>http://localhost:1313/cs/kikinvb_yt/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/kikinvb_yt/</guid>
+    <description><![CDATA[<h1 id="zhaolis-保研经验分享">zhaoli&rsquo;s 保研经验分享</h1>]]></description>
+</item>
+</channel>
+</rss>

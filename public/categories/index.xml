@@ -1,0 +1,56 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - 江南大学 CS 保研仓库</title>
+        <link>http://localhost:1313/cs/categories/</link>
+        <description>Categories - 分类 - 江南大学 CS 保研仓库</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/cs/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>2025</title>
+    <link>http://localhost:1313/cs/categories/2025/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/categories/2025/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>计算机科学与技术专业</title>
+    <link>http://localhost:1313/cs/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>人工智能专业</title>
+    <link>http://localhost:1313/cs/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>数媒专业</title>
+    <link>http://localhost:1313/cs/categories/%E6%95%B0%E5%AA%92%E4%B8%93%E4%B8%9A/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/categories/%E6%95%B0%E5%AA%92%E4%B8%93%E4%B8%9A/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>夏令营</title>
+    <link>http://localhost:1313/cs/categories/%E5%A4%8F%E4%BB%A4%E8%90%A5/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/categories/%E5%A4%8F%E4%BB%A4%E8%90%A5/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>预推免</title>
+    <link>http://localhost:1313/cs/categories/%E9%A2%84%E6%8E%A8%E5%85%8D/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/cs/categories/%E9%A2%84%E6%8E%A8%E5%85%8D/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
