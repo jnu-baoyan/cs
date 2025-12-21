@@ -1,7 +1,6 @@
 baseURL = "https://jnu-baoyan.github.io/cs/"
 # baseURL = "https://example.com"
 
-
 # theme
 # 主题
 theme = "LoveIt"
